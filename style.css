@@ -1,0 +1,38 @@
+body
+{
+  color: plum;
+  background: oldlace;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultemotionname ,#resultemotionname2  
+{
+  color: black;
+}
+.emotionname
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+label{
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 14px;
+  color: darkslateblue;
+}
+.heading{
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
